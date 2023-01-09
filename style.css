@@ -1,0 +1,43 @@
+.number{
+    background-color: darkblue;
+    color:azure;
+    width: 290px;
+    height: 50px;
+    font-size: 55px;
+    padding-left: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.milocva{
+    width: 950px;
+    height: 70px;
+    font-size: 60px;
+    background-color: darkgreen;
+    color:antiquewhite;
+    display: inline-block;
+    padding-left: 50px;
+    vertical-align: middle;
+}
+.img23{
+    margin-top: 10px;
+    margin-left: 120px;
+}
+.text1{
+    margin-top: 20px;
+    margin-left: 290px;
+    background-color: brown;
+    color:aqua;
+    width: 600px; height: 50px;
+    padding-left: 115px; font-size: 40px;
+
+}
+.text2{
+ background-color: brown; color:aqua; margin-left: 80px;
+margin-top: 50px; font-size: 40px; height: 50px;
+display: inline-block;
+}
+.text3{
+     background-color: brown; color:aqua;
+    margin-left: 500px; font-size: 40px; height: 50px;
+    display: inline-block;
+}
